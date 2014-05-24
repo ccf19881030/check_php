@@ -10,9 +10,7 @@ Building your first dynamic website with PHP
 另外David Powers是[foundationphp](http://foundationphp.com/)站的作者，他是网页开发方面的专家，擅长使用PHP, HTML, CSS以及Dreamweaver等语言和工具构建动态网站。
 
 二、如何运行此代码仓库？
-* 方法1、单独安装PHP、MySQL、Apache、phpMyAdmin等软件，比如在Ubuntu等Linux发行版上安装LAMP(Linux+Apache+MySQL+PHP)
+* 方法1、单独安装PHP、MySQL、Apache、phpMyAdmin等软件，比如在Ubuntu等Linux发行版上安装LAMP(Linux+Apache+MySQL+PHP)，此方法相对比较麻烦，还是推荐第二种方法。
 * 方法2、集成开发包 
-  * XAMPP 根据开源跨平台的，XAMPP是流行的PHP开发环境，适用于Windows、Mac OS X和Linux。
-    [Learn more](https://www.apachefriends.org/zh_cn/index.html)
-  * MAMP (if you have Mac OS X)，目前只支持Mac OSX，很快应该有Windows的版本。
-    [Learn more](http://www.mamp.info/en/)
+  * XAMPP 根据开源跨平台的，XAMPP是流行的PHP开发环境，适用于Windows、Mac OS X和Linux。参见[https://www.apachefriends.org/zh_cn/index.html](https://www.apachefriends.org/zh_cn/index.html)
+  * MAMP (if you have Mac OS X)，目前只支持Mac OSX，很快应该有Windows的版本。参见[http://www.mamp.info/en/](http://www.mamp.info/en/)
