@@ -1,16 +1,27 @@
-check_php
-=========
-
+# check_php
 Building your first dynamic website with PHP
 
-一、此仓库代码来源于David Powers在Adobe站上的系列文章，如下：
+## David Powers's blog on adobe website
 * 1、[Building your first dynamic website – Part 1: Setting up the site and database](http://www.adobe.com/devnet/dreamweaver/articles/first_dynamic_site_pt1.html)
 * 2、[Building your first dynamic website – Part 2: Developing the back end](http://www.adobe.com/devnet/dreamweaver/articles/first_dynamic_site_pt2.html)
 
 另外David Powers是[foundationphp](http://foundationphp.com/)站的作者，他是网页开发方面的专家，擅长使用PHP, HTML, CSS以及Dreamweaver等语言和工具构建动态网站。
 
-二、如何运行此代码仓库？
-* 方法1、单独安装PHP、MySQL、Apache、phpMyAdmin等软件，比如在Ubuntu等Linux发行版上安装LAMP(Linux+Apache+MySQL+PHP)，此方法相对比较麻烦，还是推荐第二种方法。
-* 方法2、集成开发包 
-  * XAMPP 根据开源跨平台的，XAMPP是流行的PHP开发环境，适用于Windows、Mac OS X和Linux。参见[https://www.apachefriends.org/zh_cn/index.html](https://www.apachefriends.org/zh_cn/index.html)
-  * MAMP (if you have Mac OS X)，目前只支持Mac OSX，很快应该有Windows的版本。参见[http://www.mamp.info/en/](http://www.mamp.info/en/)
+## Requirements
+* Prerequisite knowledge
+ Familiarity with the Dreamweaver workspace and the basics of building a static website as explained in [Creating your first website](https://helpx.adobe.com/dreamweaver/learn/tutorials/how-to/first-website-part1.html).
+* Required products
+  
+## Additional Requirements
+* XAMPP (if you have Windows)
+ [https://www.apachefriends.org/zh_cn/index.html](https://www.apachefriends.org/zh_cn/index.html)
+* MAMP (if you have Mac OS X)
+ [http://www.mamp.info/en/](http://www.mamp.info/en/)
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
