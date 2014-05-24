@@ -12,14 +12,18 @@ Building your first dynamic website with PHP
 ## Requirements
 
 * Prerequisite knowledge
+
  Familiarity with the Dreamweaver workspace and the basics of building a static website as explained in [Creating your first website](https://helpx.adobe.com/dreamweaver/learn/tutorials/how-to/first-website-part1.html).
 * Required products
+
   [Dreamweaver](http://www.adobe.com/cfusion/tdrc/index.cfm?product=dreamweaver&loc=cn)
   
 ## Additional Requirements
 * XAMPP (if you have Windows)
+
  [https://www.apachefriends.org/zh_cn/index.html](https://www.apachefriends.org/zh_cn/index.html)
 * MAMP (if you have Mac OS X)
+
  [http://www.mamp.info/en/](http://www.mamp.info/en/)
 * LAMP/XAMPP (if you have Linux, such as Ubuntu、Redhat、CentOS etc.)
 
